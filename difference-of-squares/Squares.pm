@@ -25,7 +25,7 @@ sub sum_of_squares {
     my ($self) = @_;
 
     my $sum = 0;
-    map { $sum += $_ * $_ } 1 .. $self->{n}; 
+    $sum += $_ * $_ for 1 .. $self->{n}; 
 
     return $sum;
 }
