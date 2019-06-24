@@ -16,11 +16,7 @@ sub new {
 
 sub square_of_sum {
     my ($self) = @_;
-    my $sum = 0;
-
-    for (my $i=1; $i <= $self->{n}; $i++) {
-        $sum += $i;
-    }
+    my $sum = $self->{n} * ($self->{n} + 1) / 2;
 
     return $sum * $sum;
 }
@@ -29,10 +25,7 @@ sub sum_of_squares {
     my ($self) = @_;
 
     my $sum = 0;
-
-    for (my $i=1; $i <= $self->{n}; $i++) {
-        $sum += $i * $i;
-    }
+    map { $sum += $_ * $_ } 1 .. $self->{n}; 
 
     return $sum;
 }
@@ -42,3 +35,5 @@ sub difference {
     
     return $self->square_of_sum() - $self->sum_of_squares();
 }
+
+1;
