@@ -7,7 +7,9 @@ The solutions are can be found in order:
 3. [Bob]
 4. [Leap]
 5. [Grains]
-6. ...
+6. [Raindrops]
+7. [Hamming]
+8. ...
 
 
 Extras:
@@ -16,14 +18,23 @@ Extras:
 2. [Proverb]
 3. [Space Age]
 4. [Beer Song]
+5. [Roman Numerals]
+6. [Clock]
+7. ...
+
 
 [Hello World]: https://github.com/zafatar/exercism-perl5/tree/development/hello-world
 [Two Fer]: https://github.com/zafatar/exercism-perl5/tree/development/two-fer
 [Bob]: https://github.com/zafatar/exercism-perl5/tree/development/bob
 [Leap]: https://github.com/zafatar/exercism-perl5/tree/development/leap
 [Grains]: https://github.com/zafatar/exercism-perl5/tree/development/grains
+[Raindrops]: https://github.com/zafatar/exercism-perl5/tree/development/raindrops
+[Hamming]: https://github.com/zafatar/exercism-perl5/tree/development/hamming
+
 
 [Difference Of Squares]: https://github.com/zafatar/exercism-perl5/tree/development/difference-of-squares
 [Proverb]: https://github.com/zafatar/exercism-perl5/tree/development/proverb
 [Space Age]: https://github.com/zafatar/exercism-perl5/tree/development/space-age
 [Beer Song]: https://github.com/zafatar/exercism-perl5/tree/development/beer-song
+[Roman Numerals]: https://github.com/zafatar/exercism-perl5/tree/development/roman-numerals
+[Clock]: https://github.com/zafatar/exercism-perl5/tree/development/clock
