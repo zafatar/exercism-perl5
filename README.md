@@ -11,6 +11,7 @@ The solutions are can be found in order:
 7. [Hamming]
 8. [ETL]
 9. [Scrabble Score]
+10. [Word Count]
 10. ...
 
 Extras:
@@ -33,6 +34,7 @@ Extras:
 [Hamming]: https://github.com/zafatar/exercism-perl5/tree/development/hamming
 [ETL]: https://github.com/zafatar/exercism-perl5/tree/development/etl
 [Scrabble Score]: https://github.com/zafatar/exercism-perl5/tree/development/scrabble-score
+[Word Count]: https://github.com/zafatar/exercism-perl5/tree/development/word-count
 
 
 [Difference Of Squares]: https://github.com/zafatar/exercism-perl5/tree/development/difference-of-squares
