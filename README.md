@@ -10,7 +10,8 @@ The solutions are can be found in order:
 6. [Raindrops]
 7. [Hamming]
 8. [ETL]
-9. ...
+9. [Scrabble Score]
+10. ...
 
 Extras:
 
@@ -31,6 +32,8 @@ Extras:
 [Raindrops]: https://github.com/zafatar/exercism-perl5/tree/development/raindrops
 [Hamming]: https://github.com/zafatar/exercism-perl5/tree/development/hamming
 [ETL]: https://github.com/zafatar/exercism-perl5/tree/development/etl
+[Scrabble Score]: https://github.com/zafatar/exercism-perl5/tree/development/scrabble-score
+
 
 [Difference Of Squares]: https://github.com/zafatar/exercism-perl5/tree/development/difference-of-squares
 [Proverb]: https://github.com/zafatar/exercism-perl5/tree/development/proverb
