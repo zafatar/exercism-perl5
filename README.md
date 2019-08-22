@@ -12,7 +12,7 @@ The solutions are can be found in order:
 8. [ETL]
 9. [Scrabble Score]
 10. [Word Count]
-10. ...
+11. [Anagram]
 
 Extras:
 
@@ -22,7 +22,9 @@ Extras:
 4. [Beer Song]
 5. [Roman Numerals]
 6. [Clock]
-7. ...
+7. [Palindrome Products]
+8. [Grade School]
+9. ...
 
 
 [Hello World]: https://github.com/zafatar/exercism-perl5/tree/development/hello-world
@@ -35,7 +37,7 @@ Extras:
 [ETL]: https://github.com/zafatar/exercism-perl5/tree/development/etl
 [Scrabble Score]: https://github.com/zafatar/exercism-perl5/tree/development/scrabble-score
 [Word Count]: https://github.com/zafatar/exercism-perl5/tree/development/word-count
-
+[Anagram]: https://github.com/zafatar/exercism-perl5/tree/development/anagram
 
 [Difference Of Squares]: https://github.com/zafatar/exercism-perl5/tree/development/difference-of-squares
 [Proverb]: https://github.com/zafatar/exercism-perl5/tree/development/proverb
@@ -43,3 +45,5 @@ Extras:
 [Beer Song]: https://github.com/zafatar/exercism-perl5/tree/development/beer-song
 [Roman Numerals]: https://github.com/zafatar/exercism-perl5/tree/development/roman-numerals
 [Clock]: https://github.com/zafatar/exercism-perl5/tree/development/clock
+[Palindrome Products]: https://github.com/zafatar/exercism-perl5/tree/development/palindrome-products
+[Grade School]: https://github.com/zafatar/exercism-perl5/tree/development/grade-school
