@@ -24,7 +24,12 @@ Extras:
 6. [Clock]
 7. [Palindrome Products]
 8. [Grade School]
-9. ...
+9. [Prime Factors]
+10. [Atbash Cipher]
+11. [Matrix]
+12. [RNA Transcription]
+13. [Robot Name]
+14. ...
 
 
 [Hello World]: https://github.com/zafatar/exercism-perl5/tree/development/hello-world
@@ -47,3 +52,8 @@ Extras:
 [Clock]: https://github.com/zafatar/exercism-perl5/tree/development/clock
 [Palindrome Products]: https://github.com/zafatar/exercism-perl5/tree/development/palindrome-products
 [Grade School]: https://github.com/zafatar/exercism-perl5/tree/development/grade-school
+[Prime Factors]: https://github.com/zafatar/exercism-perl5/tree/development/prime-factors
+[Atbash Cipher]: https://github.com/zafatar/exercism-perl5/tree/development/atbash-cipher
+[Matrix]: https://github.com/zafatar/exercism-perl5/tree/development/matrix
+[RNA Transcription]: https://github.com/zafatar/exercism-perl5/tree/development/rna-transcription
+[Robot Name]: https://github.com/zafatar/exercism-perl5/tree/development/robot-name
