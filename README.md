@@ -29,7 +29,9 @@ Extras:
 11. [Matrix]
 12. [RNA Transcription]
 13. [Robot Name]
-14. ...
+14. [Accumulate]
+15. [Series]
+16. [Simple Cipher]
 
 
 [Hello World]: https://github.com/zafatar/exercism-perl5/tree/development/hello-world
@@ -57,3 +59,6 @@ Extras:
 [Matrix]: https://github.com/zafatar/exercism-perl5/tree/development/matrix
 [RNA Transcription]: https://github.com/zafatar/exercism-perl5/tree/development/rna-transcription
 [Robot Name]: https://github.com/zafatar/exercism-perl5/tree/development/robot-name
+[Accumulate]: https://github.com/zafatar/exercism-perl5/tree/development/accumulate
+[Series]: https://github.com/zafatar/exercism-perl5/tree/development/series
+[Simple Cipher]: https://github.com/zafatar/exercism-perl5/tree/development/simple-cipher
